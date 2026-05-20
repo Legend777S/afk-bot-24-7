@@ -27,12 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 9999,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 99,
       "messages": [
         "I'm a regular player",
-        "Subscribe to !",
       ]
     },
     "chat-log": true,
